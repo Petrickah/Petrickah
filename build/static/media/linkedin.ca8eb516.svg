@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="63px" height="63px" viewBox="0 0 63 63" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient x1="0.5" y1="-0.05190909" x2="0.5" y2="1.0473182" id="gradient_1">
+      <stop offset="0" stop-color="#6DC7FF" />
+      <stop offset="1" stop-color="#E6ABFF" />
+    </linearGradient>
+    <linearGradient x1="0.49999988" y1="-0.0519228" x2="0.49999988" y2="1.0473411" id="gradient_2">
+      <stop offset="0" stop-color="#6DC7FF" />
+      <stop offset="1" stop-color="#E6ABFF" />
+    </linearGradient>
+    <linearGradient x1="0.5" y1="-0.53977275" x2="0.5" y2="1.0693183" id="gradient_3">
+      <stop offset="0" stop-color="#6DC7FF" />
+      <stop offset="1" stop-color="#E6ABFF" />
+    </linearGradient>
+    <linearGradient x1="0.5" y1="-0.010000005" x2="0.5" y2="1.01" id="gradient_4">
+      <stop offset="0" stop-color="#1A6DFF" />
+      <stop offset="1" stop-color="#C822FF" />
+    </linearGradient>
+    <path d="M0 0L62.1232 0L62.1232 62.433L0 62.433L0 0Z" id="path_1" />
+    <clipPath id="mask_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+  </defs>
+  <g id="Linkedin-icon">
+    <path d="M0 0L62.1232 0L62.1232 62.433L0 62.433L0 0Z" id="Background" fill="none" fill-rule="evenodd" stroke="none" />
+    <g clip-path="url(#mask_1)">
+      <g id="Group" transform="translate(16.566162 16.648682)">
+        <path d="M5.91862 29.1352L5.91862 9.23071L0.594482 9.23071L0.594482 29.1352L5.91862 29.1352L5.91862 29.1352Z" id="Shape" fill="url(#gradient_1)" fill-rule="evenodd" stroke="none" />
+        <path d="M3.57427 6.51692C5.80331 6.51692 7.19113 5.18332 7.19113 3.30143C7.14943 1.37794 5.80331 0 3.61686 0C1.42953 0 0 1.33451 0 3.25801C0 5.13988 1.38694 6.51691 3.53256 6.51691L3.57427 6.51691L3.57427 6.51692L3.57427 6.51692Z" id="Shape" fill="url(#gradient_2)" fill-rule="evenodd" stroke="none" />
+        <path d="M10.3075 29.1352L16.5669 29.1352L16.5669 18.1977C16.5669 17.6114 16.6752 17.026 16.8447 16.6071C17.3061 15.4355 18.5102 14.2231 20.2761 14.2231C22.5894 14.2231 23.6667 16.0218 23.6667 18.6573L23.6667 29.1352L28.9908 29.1352L28.9908 17.9055C28.9908 11.8825 26.2533 9.31214 22.0463 9.31214C18.5981 9.31214 17.4995 11.0402 16.6583 12.8497L16.5669 12.8497L16.5669 9.23071L10.3075 9.23071C10.3918 11.0402 10.1522 29.1352 10.1522 29.1352L10.3075 29.1352L10.3075 29.1352Z" id="Shape" fill="url(#gradient_3)" fill-rule="evenodd" stroke="none" />
+      </g>
+      <path d="M51.935 60.3521L10.1882 60.3521C5.71315 60.3521 2.07074 56.6915 2.07074 52.1942L2.07074 10.2392C2.07074 5.74187 5.71315 2.0813 10.1882 2.0813L51.935 2.0813C56.41 2.0813 60.0524 5.74187 60.0524 10.2392L60.0524 52.1942C60.0524 56.6915 56.41 60.3521 51.935 60.3521L51.935 60.3521ZM10.1882 4.41211C6.99113 4.41211 4.39008 7.02614 4.39008 10.2392L4.39008 52.1942C4.39008 55.4072 6.99113 58.0212 10.1882 58.0212L51.9351 58.0212C55.1322 58.0212 57.7332 55.4072 57.7332 52.1942L57.7332 10.2392C57.7332 7.02614 55.1322 4.41211 51.9351 4.41211L10.1882 4.41211L10.1882 4.41211Z" id="Shape" fill="url(#gradient_4)" fill-rule="evenodd" stroke="none" />
+    </g>
+  </g>
+</svg>
