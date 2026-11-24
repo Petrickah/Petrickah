@@ -5,3 +5,10 @@
 - 🎓 Graduated Computer Science at Petroleum-Gas University of Ploiești
 - 💞️ Looking to collaborate on game development and backend projects
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/tiberiupetre)
+
+### 📝 Latest from the blog
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+More on [petretiberiu.dev](https://petretiberiu.dev/posts/)
