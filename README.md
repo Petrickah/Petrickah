@@ -9,6 +9,11 @@
 ### 📝 Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Gram Engine - Episode 2: Ray Tracing in One Weekend on the GPU](https://petretiberiu.dev/posts/gram-engine-02-ray-tracing-in-one-weekend-on-the-gpu/)
+- [Gram Engine - Interlude 2.5: Optimizing for Real Hardware](https://petretiberiu.dev/posts/gram-engine-02-5-optimizing-for-real-hardware/)
+- [Gram Engine - Episode 1: Hello Triangle](https://petretiberiu.dev/posts/gram-engine-01-hello-triangle/)
+- [Gram Engine — Episode 0: Gram Build](https://petretiberiu.dev/posts/gram-engine-00-gram-build/)
+- [Sovereign AI Nexus, Part 3: Making It Actually Talk](https://petretiberiu.dev/posts/sovereign-ai-nexus-03-making-it-talk/)
 <!-- BLOG-POST-LIST:END -->
 
 More on [petretiberiu.dev](https://petretiberiu.dev/posts/)
