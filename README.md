@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Tiberiu Petre - @Petrickah
 - 💼 Software Engineer - Gameplay, 4 years on Assassin's Creed at Ubisoft: gameplay code, bug fixing and designer tooling; credited on _Assassin's Creed Shadows_ and _Assassin's Creed Black Flag Resynced_
-- 🌱 Currently building Gram Engine, a personal C++/Rust engine on Vulkan
+- 🌱 Currently building [Gram Engine](https://github.com/Petrickah/gram-engine), a personal C++/Rust engine on Vulkan
 - 💞️ Looking to collaborate on game development projects
 - 👀 I’m interested in game development, computer science, software engineering and object-oriented programming
 - 🎓 Graduated Computer Science at Petroleum-Gas University of Ploiești
-- 📫 Reach me on [LinkedIn](https://linkedin.com/in/tiberiupetre)
+- 📫 Reach me on [LinkedIn](https://linkedin.com/in/tiberiupetre) or read more about what I build on [petretiberiu.dev](https://petretiberiu.dev/posts/)
 
 ### 📝 Latest from the blog
 
